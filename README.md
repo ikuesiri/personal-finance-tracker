@@ -23,7 +23,7 @@ screenshots/
 
 ## 📸 Screenshots
 
-![dashboard]()
+![dashboard](screenshots/dashboard.PNG)
 
 ## 🛠️ Tools Used
 
